@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Database\Seeder;
-
+use App\Footballer;
 class FootballerTableSeeder extends Seeder
 {
     /**
